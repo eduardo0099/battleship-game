@@ -1,5 +1,5 @@
 
-# Santex - React - Challenge
+# React - Challenge
 
 
 The tools used to develop this challenge were: React, Scss, BEM, JS, Redux and more.
